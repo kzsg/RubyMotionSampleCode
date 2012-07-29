@@ -1,5 +1,5 @@
-WebPrint
-========
+Sample for AirPrint
+===================
 
 This is sample application for RubyMotion(1.19) with AirPrint.
 
